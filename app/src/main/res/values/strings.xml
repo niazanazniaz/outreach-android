@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_activity_launch_page">eBay Quiz</string>
+    <string name="title_activity_score_board">ScoreBoardActivity</string>
+</resources>

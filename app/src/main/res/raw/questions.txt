@@ -1,0 +1,192 @@
+{
+  "Questions": [
+    {
+      "Question": "How many countries are in the GBX LATAM Group?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "19"
+        },
+        {
+          "Answer": "18"
+        },
+        {
+          "Answer": "14"
+        },
+        {
+          "Answer": "20"
+        }
+      ]
+    },
+    {
+      "Question": "What is the handler that GBX Platform team is responsible for?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "UserPrefsHandler"
+        },
+        {
+          "Answer": "PermutationHandler"
+        },
+        {
+          "Answer": "ContextResolverHandler"
+        },
+        {
+          "Answer": "RaptorContextHandler"
+        }
+      ]
+    },
+
+        {
+      "Question": "How many currencies does GBX Platform enabled?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "16"
+        },
+        {
+          "Answer": "20"
+        },
+        {
+          "Answer": "22"
+        },
+        {
+          "Answer": "25"
+        }
+      ]
+    },
+
+        {
+      "Question": "How many calls does GeoCfgService serve each day?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "2 Billion"
+        },
+        {
+          "Answer": "1 Billion"
+        },
+        {
+          "Answer": "50 Billion"
+        },
+        {
+          "Answer": "1 Million"
+        }
+      ]
+    },
+
+           {
+      "Question": "Which one is not a feature that GBX Platform support?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Query translation"
+        },
+        {
+          "Answer": "Geo identification"
+        },
+        {
+          "Answer": "Currency format"
+        },
+        {
+          "Answer": "Emails"
+        }
+      ]
+    },
+
+      {
+      "Question": "Which is not a COS header?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "X-EBAY-C-MARKETPLACE-ID"
+        },
+        {
+          "Answer": "X-EBAY-C-ENDUSERCTX"
+        },
+        {
+          "Answer": "X-EBAY-GLOBAL-ID"
+        },
+        {
+          "Answer": "Accept-Language"
+        }
+      ]
+    },
+
+          {
+      "Question": "Which is an invalid GBX cookie format?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "RU"
+        },
+        {
+          "Answer": "RUru-RU"
+        },
+        {
+          "Answer": "JP"
+        },
+        {
+          "Answer": "ru-RU"
+        }
+      ]
+    },
+
+     {
+      "Question": "Which language is not live for GBX ITT?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Russian"
+        },
+        {
+          "Answer": "Chinese"
+        },
+        {
+          "Answer": "Portuguese"
+        },
+        {
+          "Answer": "Spanish"
+        }
+      ]
+    },
+
+         {
+      "Question": "What does FRITES stand for?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "FR, IT & ES sites"
+        },
+        {
+          "Answer": "French Fries"
+        },
+        {
+          "Answer": "Steak Fries"
+        },
+        {
+          "Answer": "None of above"
+        }
+      ]
+    },
+
+             {
+      "Question": "What are the GBX sojourner tag names?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "UC"
+        },
+        {
+          "Answer": "All of the above"
+        },
+        {
+          "Answer": "BS"
+        },
+        {
+          "Answer": "UL"
+        }
+      ]
+    }
+     ]
+}
